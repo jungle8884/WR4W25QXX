@@ -1,0 +1,28 @@
+E:\VS\CS\14-串口助手\串口助手\串口助手\bin\Release\串口助手 V1.0.exe
+E:\VS\CS\14-串口助手\串口助手\串口助手\bin\Release\串口助手 V1.0.pdb
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Release\串口助手.Form1.resources
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Release\串口助手.Properties.Resources.resources
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Release\串口助手.csproj.GenerateResource.Cache
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Release\串口助手 V1.0.exe
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Release\串口助手 V1.0.pdb
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Release\串口助手.Form1.resources
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Release\串口助手.Properties.Resources.resources
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Release\串口助手.csproj.GenerateResource.Cache
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\bin\Release\串口助手 V1.1.exe
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\bin\Release\串口助手 V1.1.pdb
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Release\串口助手 V1.1.exe
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Release\串口助手 V1.1.pdb
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\bin\Release\串口助手 V1.1.exe
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\bin\Release\串口助手 V1.1.pdb
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手.csproj.AssemblyReference.cache
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手.Form1.resources
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手.Properties.Resources.resources
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手.csproj.GenerateResource.cache
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手.csproj.CoreCompileInputs.cache
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手 V1.1.exe
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手 V1.1.pdb
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\obj\Release\串口助手.csproj.CopyComplete
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Jungle\Desktop\串口助手-工程源码\串口助手\bin\Release\BouncyCastle.Crypto.xml
